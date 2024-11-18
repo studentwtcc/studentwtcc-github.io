@@ -1,4 +1,4 @@
-# studentwtcc-github.ioation:
+# studentwtcc-github.io
 1. Your name and email address
 2. A brief description of your Github account
 3. A brief description of the repository you created
